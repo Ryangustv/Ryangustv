@@ -1,28 +1,16 @@
 <h1 align="center">👋 Olá, eu sou o Ryan Gustavo</h1>
-<p align="center">📊 Analista de Dados | Python • SQL • Power BI • Excel</p>
+<p align="center">Analista de Suporte| Python • PostgreSQL • Power BI </p>
 
 ---
 
 ### 🧭 Sobre mim
 
-Sou um Analista de Dados apaixonado por transformar dados em soluções estratégicas. Tenho experiência prática em análise exploratória de dados, visualização de insights e construção de dashboards interativos com Power BI, além de habilidades sólidas em Python e SQL.
+Sou um Analista de Suporte em transição para área de dados. Tenho experiência prática em análise exploratória de dados, visualização de insights e construção de dashboards interativos com Power BI, além de habilidades sólidas em Python e SQL.
 
-Atualmente estou aprofundando meus conhecimentos em projetos pessoais e cursos voltados para Business Intelligence e Data Science.
-
----
-
-### 💼 Projetos em destaque
-
-| Projeto | Descrição | Ferramentas |
-|--------|------------|-------------|
-| **Dashboard de Vendas - Power BI** | Análise de desempenho de vendas com filtros interativos, KPIs e segmentação por região e categoria | Power BI, Excel |
-| **Análise de Churn de Clientes** | Projeto de análise exploratória com foco em retenção de clientes e predição de cancelamentos | Python, Pandas, Seaborn, Matplotlib |
-| **Consulta de Dados com SQL** | Scripts e queries otimizadas para análise de dados de banco relacional | SQL, PostgreSQL |
-| **ETL e Tratamento de Dados** | Pipeline para limpeza e transformação de dados antes da análise final | Python, Pandas |
-
-➡️ Veja todos os projetos no meu repositório: [Portfólio de Projetos](https://github.com/Ryangustv?tab=repositories)
+Atualmente estou aprofundando meus conhecimentos em projetos pessoais e cursos voltados para Business Intelligence e Data Engineer.
 
 ---
+
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -46,12 +34,5 @@ Atualmente estou aprofundando meus conhecimentos em projetos pessoais e cursos v
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📚 Atualmente estudando
-
-- 📌 Estruturação de dados para BI
-- 📌 SQL avançado para análise de grandes volumes de dados
-- 📌 Machine Learning (iniciando com Scikit-learn)
 
 ---
