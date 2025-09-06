@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Ryan Gustavo
 
-<!--
-**Ryangustv/Ryangustv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Support Analyst em transição para Análise de Dados.**
 
-Here are some ideas to get you started:
+##  Sobre Mim
+- Apaixonado por transformar dados em decisões estratégicas.
+- Experiência com Python, SQL, e visualização de dados.
+- Interesses: estatística aplicada, machine learning exploratório, automação de relatórios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+... outros
+
+##  Projetos em Destaque
+- **Auditoria de Estoque**: script em Python que automatiza conferência de estoque com Excel.  
+- **Auditoria Excel**: ferramenta para análise de planilhas, comparando versões.
+
+##  Contato
+- [LinkedIn](#)
+- [Portfólio](#)
+- [E-mail](mailto:seuemail@example.com)
+
+---
+
+> “Transformar dados crus em insights claros.”  
