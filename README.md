@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá, eu sou o Ryan Gustavo</h1>
-<p align="center">Analista de Suporte| Python • PostgreSQL • Power BI </p>
+<p align="center">Analista de Suporte| Python • PostgreSQL </p>
 
 ---
 
 ### 🧭 Sobre mim
 
-Sou um Analista de Suporte em transição para área de dados. Tenho experiência prática em análise exploratória de dados, visualização de insights e construção de dashboards interativos com Power BI, além de habilidades sólidas em Python e SQL.
+Sou um Analista de Suporte em transição para área de dados. Tenho experiência prática em análise exploratória de dados, visualização de insights, além de habilidades sólidas em Python e SQL.
 
 Atualmente estou aprofundando meus conhecimentos em projetos pessoais e cursos voltados para Business Intelligence e Data Engineer.
 
@@ -24,9 +24,6 @@ Atualmente estou aprofundando meus conhecimentos em projetos pessoais e cursos v
 ![Seaborn](https://img.shields.io/badge/Seaborn-2B2D42?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-#### 📈 Visualização  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 #### ⚙️ Ferramentas  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
