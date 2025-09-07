@@ -5,7 +5,7 @@
 
 ### 🧭 Sobre mim
 
-Sou um Analista de Suporte em transição para área de dados. Tenho experiência prática em análise exploratória de dados, visualização de insights, além de habilidades sólidas em Python e SQL.
+Sou um Analista de Suporte em transição para área de dados. Tenho experiência prática em análise exploratória de dados, visualização de insights, além de habilidades sólidas em Python e PostgreSQL.
 
 Atualmente estou aprofundando meus conhecimentos em projetos pessoais e cursos voltados para Business Intelligence e Data Engineer.
 
