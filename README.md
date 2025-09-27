@@ -18,29 +18,18 @@
 
 ## 📌 Projetos em Destaque  
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 ETL Fake Products</h3>
-      <div align="center">
-        <a href="https://github.com/Ryangustv/ETL-Fake-Products" target="_blank">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-        </a>
-        <p align="center">
-          🔹 Pipeline **ETL completo** que extrai dados de uma API Fake,  
-          transforma e carrega em um banco **PostgreSQL**.
-        </p>
-        <p align="center">
-          <a href="https://github.com/Ryangustv/ETL-Fake-Products">
-            👉 Ver no GitHub
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+- [**ETL-Fake-Products**](https://github.com/Ryangustv/ETL-Fake-Products)  
+  🔹 Pipeline ETL que **extrai** dados de uma API, **transforma** com Pandas e **carrega** em um banco PostgreSQL.  
+  **Tecnologias:** Python, Pandas, PostgreSQL
+
+  - [**Tratamento de dados**](https://github.com/Ryangustv/Car-Sales)  
+  🔹Extraindo dados relacionados a vendas de carros, realizando a analise exploratória de dados e aprendendo
+    conceitos de visualização e interpretação de dados
+  **Tecnologias:** Jupyter, Python, Pandas, MatplotLib
+
+---
+
+*(Mais projetos serão adicionados em breve 👨‍💻)*
 
 ---
 
