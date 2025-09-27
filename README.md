@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Ryan Gustavo</h1>
-<p align="center">Analista de Suporte| Python • PostgreSQL </p>
+<p align="center">Analista de Suporte | Python • PostgreSQL </p>
 
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -22,7 +22,7 @@
   🔹 Pipeline ETL que **extrai** dados de uma API, **transforma** com Pandas e **carrega** em um banco PostgreSQL.  
   **Tecnologias:** Python, Pandas, PostgreSQL
 
-  - [**Tratamento de dados**](https://github.com/Ryangustv/Car-Sales)  
+- [**Tratamento de dados**](https://github.com/Ryangustv/Car-Sales)  
   🔹Extraindo dados relacionados a vendas de carros, realizando a analise exploratória de dados e aprendendo
     conceitos de visualização e interpretação de dados
   **Tecnologias:** Jupyter, Python, Pandas, MatplotLib
@@ -42,7 +42,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryangustv)
 
 ---
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryangustv/Ryangustv/output/github-contribution-grid-snake-dark.svg">
