@@ -31,9 +31,20 @@ Atualmente estou aprofundando meus conhecimentos em projetos pessoais e cursos v
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+- GitHub Streaks / Contribuições  
+- Linguagens mais usadas (GitHub Language Stats)  
+- Perfil do GitHub (via shields.io)  
+- Estatísticas de commits / commits por mês  
+
+Exemplo de badge:
+
+```markdown
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryangustv&show_icons=true&theme=dark)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryangustv/Ryangustv/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryangustv/Ryangustv/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryangustv/Ryangustv/output/github-contribution-grid-snake.svg">
 </picture>
+
