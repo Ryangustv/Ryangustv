@@ -1,45 +1,45 @@
 <h1 align="center">👋 Olá, eu sou o Ryan Gustavo</h1>
 <p align="center">Analista de Suporte| Python • PostgreSQL </p>
-
 ---
 
-### 🧭 Sobre mim
-
-Sou um Analista de Suporte em transição para área de dados. Tenho experiência prática em análise exploratória de dados, visualização de insights, além de habilidades sólidas em Python e PostgreSQL.
-
-Atualmente estou aprofundando meus conhecimentos em projetos pessoais e cursos voltados para Business Intelligence e Data Engineer.
-
----
-
-
-### 🛠️ Tecnologias e Ferramentas
-
-#### 💻 Linguagens  
+## 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 📊 Bibliotecas de Análise  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2B2D42?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-
-#### ⚙️ Ferramentas  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- GitHub Streaks / Contribuições  
-- Linguagens mais usadas (GitHub Language Stats)  
-- Perfil do GitHub (via shields.io)  
-- Estatísticas de commits / commits por mês  
+---
 
-Exemplo de badge:
-
-```markdown
+## 📊 Estatísticas do GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryangustv&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryangustv&layout=compact&theme=dark)
+
+---
+
+## 🔥 Streaks de Contribuição
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ryangustv&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 📈 Atividade
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryangustv&theme=github_dark&utcOffset=3)
+![Commits por mês](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryangustv&theme=github_dark)
+
+---
+
+## 📌 Projetos em Destaque
+- [ETL-Fake-Products](https://github.com/Ryangustv/ETL-Fake-Products) → Pipeline ETL com **Python + Pandas + PostgreSQL**
+- (adicione outros projetos aqui futuramente 👨‍💻)
+
+---
+
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryangustv)
+
+---
 
 
 <picture>
