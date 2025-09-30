@@ -20,11 +20,11 @@
 
 - [**ETL-Fake-Products**](https://github.com/Ryangustv/ETL-Fake-Products)  
   🔹 Pipeline ETL que **extrai** dados de uma API, **transforma** com Pandas e **carrega** em um banco PostgreSQL.  
-  **Tecnologias:** Python, Pandas, PostgreSQL
+  **Tecnologias:** Python, Pandas, PostgreSQL, Docker.
 
 - [**Tratamento de dados**](https://github.com/Ryangustv/Car-Sales)  
   🔹Extraindo dados relacionados a vendas de carros, realizando a analise exploratória de dados e aprendendo
-    conceitos de visualização e interpretação de dados
+    conceitos de visualização e interpretação de dados.
   **Tecnologias:** Jupyter, Python, Pandas, MatplotLib
 
 ---
