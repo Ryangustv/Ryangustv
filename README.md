@@ -21,11 +21,10 @@
 
 
 ## 📊 Estatísticas do GitHub
-![GitHub Activity Graph](https://activity-graph.pro/github-activity-graph.svg?username=Ryangustv&theme=dracula&area=true&hide_border=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryangustv&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryangustv&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryangustv&layout=compact&theme=dark&langs_count=3&exclude_repo=nome_de_repo_antigo)
 
 
 
