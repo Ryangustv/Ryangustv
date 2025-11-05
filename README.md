@@ -21,6 +21,7 @@
 
 
 ## 📊 Estatísticas do GitHub
+![GitHub Activity Graph](https://activity-graph.pro/github-activity-graph.svg?username=Ryangustv&theme=dracula&area=true&hide_border=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryangustv&show_icons=true&theme=dark)
 
