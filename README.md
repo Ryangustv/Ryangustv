@@ -26,6 +26,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryangustv&layout=compact&theme=dark&langs_count=3&exclude_repo=nome_de_repo_antigo)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryangustv&theme=dark&hide_border=true)
+
 
 
 ## 📌 Projetos em Destaque  
