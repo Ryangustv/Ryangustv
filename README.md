@@ -6,7 +6,7 @@
 
 
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -16,17 +16,6 @@
 
 
 
----
-
-
-
-## 📊 Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryangustv&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryangustv&layout=compact&theme=dark&langs_count=3&exclude_repo=nome_de_repo_antigo)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryangustv&theme=dark&hide_border=true)
 
 
 
@@ -38,7 +27,7 @@
 
   🔹 Pipeline ETL que **extrai** dados de uma API, **transforma** com Pandas e **carrega** em um banco PostgreSQL.  
 
-  **Tecnologias:** Python, Pandas, PostgreSQL, Docker.
+  **Tecnologias:** Python, PostgreSQL, Docker.
 
 
 
