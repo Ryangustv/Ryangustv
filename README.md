@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, eu sou o Ryan Gustavo</h1>
 
-<p align="center"> Analista de Suporte | Python • PostgreSQL </p>
+<p align="center"> Desenvolvedor | Java, Python • PostgreSQL, SQLServer </p>
 
 
 
