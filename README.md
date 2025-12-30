@@ -15,7 +15,7 @@ ETL-Fake-Products
 
 Tecnologias: Python • PostgreSQL • Docker
 
-https://github.com/Ryangustv/ETL-Fake-Products
+
 
 
 Tratamento de Dados – Car Sales
@@ -24,7 +24,6 @@ Tratamento de Dados – Car Sales
 
 Tecnologias: Python • Pandas • Matplotlib • Jupyter
 
-https://github.com/Ryangustv/Car-Sales
 
 
 
