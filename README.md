@@ -16,8 +16,9 @@ ETL-Fake-Products
 Tecnologias: Python • PostgreSQL • Docker
 
 
+---
 
-
+ 
 Tratamento de Dados – Car Sales
 
 🔹 Análise exploratória de dados de vendas de carros com visualizações e insights.
