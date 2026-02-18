@@ -1,6 +1,11 @@
 <h1 align="center">Olá, eu sou o Ryan Gustavo!</h1> <p align="center">Desenvolvedor | Java & Python • PostgreSQL & SQL Server</p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,docker,postgresql" />
+  </a>
+</p>
  
 📌 Projetos em Destaque
 ETL-Fake-Products
