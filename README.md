@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to my profile!</h1> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2> <p align="center">Developer</p> </h2>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Skills</h2></summary>
@@ -15,38 +16,20 @@
     <img src="https://skillicons.dev/icons?i=java,spring,postgresql,vscode,mysql&perline=10" />
   </a>
 </p>
- 
-📌 Projetos em Destaque
-ETL-Fake-Products
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
+  </ul>
+</div>
 
-🔹 Pipeline ETL que extrai dados de uma API, transforma com Pandas e carrega em um banco PostgreSQL.
-
-Tecnologias: Python • PostgreSQL • Docker
-
-
----
-
- 
-Tratamento de Dados – Car Sales
-
-🔹 Análise exploratória de dados de vendas de carros com visualizações e insights.
-
-Tecnologias: Python • Pandas • Matplotlib • Jupyter
-
-
-
-
----
-
-
-
-*(Mais projetos serão adicionados em breve 👨‍💻)*
-
-
-
----
-🌐 Conecte-se comigo
-<p align="center"> <a href="https://www.linkedin.com/in/seu-link" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Ryangustv" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<!-- Social media links with icons -->
+<p align="center">
+  <!-- LinkedIn profile link -->
+  <a href="https://www.linkedin.com/in/ryangustav/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+</p>
 
 ---
 
