@@ -1,10 +1,25 @@
 <h1 align="center">Olá, eu sou o Ryan Gustavo!</h1> <p align="center">Desenvolvedor | Java & Python • PostgreSQL & SQL Server</p>
 
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Skills</h2></summary>
+  </ul>
+</div>
+
+<!-- Programming Languages Icons -->
 <p align="center">
-  <h2 align="center">My skills</h2>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,docker,postgresql" />
+  <a href="https://skillicons.dev">
+    <!-- Display 6 programming language icons per line -->
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql&perline=6" />
+  </a>
+</p>
+
+<!-- Tools & Frameworks Icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Display 10 tool/framework icons per line -->
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,visualstudio,mysql&perline=10" />
   </a>
 </p>
  
