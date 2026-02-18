@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to my profile!</h1> <p align="center">Developer</p>
+<h1 align="center">Welcome to my profile!</h1> 
+<h2> <p align="center">Developer</p> </h2>
 
 
 <div id="user-content-toc">
