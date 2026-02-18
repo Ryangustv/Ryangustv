@@ -1,9 +1,10 @@
 <h1 align="center">Olá, eu sou o Ryan Gustavo!</h1> <p align="center">Desenvolvedor | Java & Python • PostgreSQL & SQL Server</p>
 
-My Skills
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,docker,postgresql" />
+  <h2 align="center">My skills</h2>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,spring,docker,postgresql" />
   </a>
 </p>
  
