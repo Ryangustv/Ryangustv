@@ -1,9 +1,8 @@
 <h1 align="center">Welcome to my profile!</h1> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2> <p align="center">Developer</p> </h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3> <p align="center">| Developer |</p> </h3>
 <div id="user-content-toc">
+  I'm Ryan- i'm backend developer and graduation student, i'm interested in development, devops, infrastructure, i work on personal projects in my free time.
   <ul align="center">
     <summary><h2 style="display: inline-block">Skills</h2></summary>
   </ul>
