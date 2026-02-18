@@ -1,13 +1,7 @@
 <h1 align="center">Olá, eu sou o Ryan Gustavo!</h1> <p align="center">Desenvolvedor | Java & Python • PostgreSQL & SQL Server</p>
 
-
-
-🛠️ Tecnologias e Ferramentas
-<p align="center"> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </p>
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+ 
 📌 Projetos em Destaque
 ETL-Fake-Products
 
