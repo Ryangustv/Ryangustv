@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Display 10 tool/framework icons per line -->
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,visualstudio,mysql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,vscode,mysql&perline=10" />
   </a>
 </p>
  
