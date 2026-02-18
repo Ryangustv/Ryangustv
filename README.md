@@ -7,14 +7,6 @@
   </ul>
 </div>
 
-<!-- Programming Languages Icons -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Display 6 programming language icons per line -->
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql&perline=6" />
-  </a>
-</p>
-
 <!-- Tools & Frameworks Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
