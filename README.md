@@ -1,8 +1,8 @@
 <h1 align="center">Welcome!</h1> 
 
-<h3> <p align="center">| Developer |</p> </h3>
+<h3> <p align="center">Developer</p> </h3>
 <div id="user-content-toc">
-  IMy name is Ryan, I'm a backend developer and I'm graduating with a degree in systems analysis and development. I'm interested in development, DevOps, and infrastructure, and I work on personal projects in my free time.
+  I'm Ryan, I'm a backend developer and I'm graduating with a degree in systems analysis and development, I'm currently in the process of a career transition, looking to enter the developer field. I enjoy working on personal projects in my free time and expanding my technology repertoire.
   <ul align="center">
     <summary><h2 style="display: inline-block">Skills</h2></summary>
   </ul>
@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Display 10 tool/framework icons per line -->
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,vscode,mysql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgresql,mysql,vscode,&perline=10" />
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
