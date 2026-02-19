@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to my profile!</h1> 
+<h1 align="center">Welcome!</h1> 
 
 <h3> <p align="center">| Developer |</p> </h3>
 <div id="user-content-toc">
-  I'm Ryan- i'm backend developer and graduation student, i'm interested in development, devops, infrastructure, i work on personal projects in my free time.
+  IMy name is Ryan, I'm a backend developer and I'm graduating with a degree in systems analysis and development. I'm interested in development, DevOps, and infrastructure, and I work on personal projects in my free time.
   <ul align="center">
     <summary><h2 style="display: inline-block">Skills</h2></summary>
   </ul>
