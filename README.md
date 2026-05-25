@@ -27,15 +27,6 @@
 
 ---
 
-## Current Focus
-
-- Backend architecture best practices  
-- RESTful API development  
-- Clean Code & Design Patterns  
-- Containerization with Docker  
-
----
-
 ##  Connect With Me
 
 <p align="center">
