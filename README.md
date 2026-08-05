@@ -1,23 +1,15 @@
-<h1 align="center">Hi </h1>
-<h3 align="center">Backend Developer</h3>
-
-<h3 align="center">https://www.proxsale.com.br</h3>
+<h1 align="center">Ryan Gustavo</h1>
+<h3 align="center">Engenheiro de Software | <a href="https://www.proxsale.com.br"target="blank"> proxsale.com </a> </h3>
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 ---
 
 ## About Me
 
--  Graduating in **Systems Analysis and Development**
--  Backend Developer focused on building scalable and well-structured applications
--  Currently transitioning fully into the development field
--  Passionate about personal projects and continuously expanding my tech stack
--  Always learning and improving my software engineering skills
-
+-  Graduado em Analise e Desenvolvimento de Sistemas.
+-  Hoje meu foco está em construção de aplicações estruturadas de forma escalável, tendo um aprendizado contínuo.
+-  Gosto de resolver problemas do mundo real com sistemas, sempre pensando no usuário final.
 ---
 
 ##  Tech Stack
@@ -36,8 +28,4 @@
   <a href="https://www.linkedin.com/in/ryangustav/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
