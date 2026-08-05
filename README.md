@@ -1,10 +1,12 @@
 <h1 align="center">Ryan Gustavo</h1>
-<h3 align="center">Engenheiro de Software</h3>
-<h3 align="center"> <a href="https://www.proxsale.com.br"target="blank"> proxsale.com</a> | <a href="https://www.linkedin.com/in/ryangustav/" target="blank"> linkedin.com</a></h3>
-
-
-
----
+<p align="center">
+    Engenheiro de Software 
+</p>
+<p align="center">
+  <a href="https://www.proxsale.com.br">proxsale.com</a> ·
+  <a href="https://github.com/Ryangustv">LinkedIn</a> ·
+  <a href="mailto:ryangustv@egmail.com">Email</a>
+</p>
 
 ## Sobre
 
