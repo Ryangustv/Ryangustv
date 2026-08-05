@@ -12,7 +12,7 @@
 
 -  Graduado em Analise e Desenvolvimento de Sistemas.
 -  Hoje meu foco está em construção de aplicações estruturadas de forma escalável, tendo um aprendizado contínuo.
--  Gosto de resolver problemas do mundo real com sistemas, sempre pensando no usuário final.
+-  Gosto de resolver problemas do mundo real com sistemas.
 ---
 
 ##  Stack
