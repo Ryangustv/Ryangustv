@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://www.proxsale.com.br">proxsale.com</a> ·
-  <a href="https://github.com/Ryangustv">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/ryangustav">LinkedIn</a> ·
   <a href="mailto:ryangustv@egmail.com">Email</a>
 </p>
 
