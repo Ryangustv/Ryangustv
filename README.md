@@ -1,10 +1,8 @@
 <h1 align="center">Ryan Gustavo</h1>
 <p align="center">
-    Engenheiro de Software 
+    Desenvolvedor
 </p>
 <p align="center">
-    Founder @ProxSale ·
-  <a href="https://www.proxsale.com.br">proxsale.com</a> ·
   <a href="https://www.linkedin.com/in/ryangustav">LinkedIn</a> ·
   <a href="mailto:ryangustv@egmail.com">Email</a>
 </p>
